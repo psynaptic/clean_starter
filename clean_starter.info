@@ -1,0 +1,4 @@
+name = Clean Starter
+description = A starter theme for creating a custom theme using Clean theme as the base theme.
+core = 6.x
+base theme = clean
